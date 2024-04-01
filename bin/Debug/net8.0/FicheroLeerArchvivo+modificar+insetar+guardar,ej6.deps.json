@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FicheroLeerArchvivo+modificar+insetar+guardar,ej6/1.0.0": {
+        "runtime": {
+          "FicheroLeerArchvivo+modificar+insetar+guardar,ej6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FicheroLeerArchvivo+modificar+insetar+guardar,ej6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

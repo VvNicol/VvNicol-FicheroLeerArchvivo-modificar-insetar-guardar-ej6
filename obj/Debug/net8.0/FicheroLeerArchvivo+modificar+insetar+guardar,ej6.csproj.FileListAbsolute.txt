@@ -1,0 +1,15 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\bin\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\bin\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\bin\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\bin\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\bin\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\refint\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\ref\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\FicheroLeerArchvivo+modificar+insetar+guardar,ej6\obj\Debug\net8.0\FicheroLeerArchvivo+modificar+insetar+guardar,ej6.sourcelink.json
